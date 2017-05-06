@@ -262,7 +262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeBetweenAttacks: 0.5
-  attackDamage: 10
+  attackDamage: 30
 --- !u!114 &114492751961409308
 MonoBehaviour:
   m_ObjectHideFlags: 1
